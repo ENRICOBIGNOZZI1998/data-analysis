@@ -1,0 +1,8 @@
+This work is ispired from Giovanni Trombetta, Founder & CIO at Rocket Capital Investment.
+It is a data analysis of Bitcoin (or whatever financial instrument, you need only to change the symbol in the third cell) structured in the following way:
+-auto correlation of prices
+-distribution of the price
+-volatility
+-stop loss/gain analysis for long and short position
+-gap up and down refilled analysis
+-volume analysis Hourly, daily
